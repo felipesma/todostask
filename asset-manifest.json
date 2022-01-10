@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/todostask/static/css/main.a1321661.css",
+    "main.js": "/todostask/static/js/main.4f961ec1.js",
+    "index.html": "/todostask/index.html",
+    "main.a1321661.css.map": "/todostask/static/css/main.a1321661.css.map",
+    "main.4f961ec1.js.map": "/todostask/static/js/main.4f961ec1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1321661.css",
+    "static/js/main.4f961ec1.js"
+  ]
+}
